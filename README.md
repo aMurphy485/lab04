@@ -27,7 +27,7 @@ Assignment Questions:
 e5d45004
 8. What is the offset value of the instruction at location 0x14 of the .text
 section?
-#8
+#8 #(Z-DSECT)
 9. What will the contents of register r7 be at completion of execution (hex)?
 0x0000debf
 
